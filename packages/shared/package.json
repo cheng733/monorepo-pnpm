@@ -1,0 +1,14 @@
+{
+  "name": "@myutils/shared",
+  "buildOptions":{
+    "name":"HgcShared",
+    "formats":[
+      "esm",
+      "cjs"
+    ]
+  },
+  "module": "dist/shared.esm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
